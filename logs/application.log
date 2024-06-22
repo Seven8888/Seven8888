@@ -1,0 +1,10 @@
+2024-06-22T09:05:05.500+0700 INFO Starting SareetaApplication on DESKTOP-3PNCKNI with PID 13072 (D:\Udaicity\course-java-main\course-java-main\target\classes started by ADMIN in D:\Udaicity\course-java-main)
+2024-06-22T09:05:05.507+0700 DEBUG Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-06-22T09:05:05.508+0700 INFO No active profile set, falling back to default profiles: default
+2024-06-22T09:05:08.476+0700 DEBUG Filter 'JWTAuthenticationVerficationFilter' configured for use
+2024-06-22T09:05:09.010+0700 INFO Started SareetaApplication in 3.771 seconds (JVM running for 4.737)
+2024-06-22T09:48:13.883+0700 INFO Starting SareetaApplication on DESKTOP-3PNCKNI with PID 11512 (D:\Udaicity\course-java-main\course-java-main\target\classes started by ADMIN in D:\Udaicity\course-java-main)
+2024-06-22T09:48:13.899+0700 DEBUG Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-06-22T09:48:13.903+0700 INFO No active profile set, falling back to default profiles: default
+2024-06-22T09:48:20.129+0700 DEBUG Filter 'JWTAuthenticationVerficationFilter' configured for use
+2024-06-22T09:48:21.191+0700 INFO Started SareetaApplication in 8.039 seconds (JVM running for 11.149)

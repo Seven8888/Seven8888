@@ -1,0 +1,17 @@
+
+2024-06-22T09:03:46.248+0700 INFO OrderController.submit - Username someone not found
+2024-06-22T09:03:46.254+0700 INFO OrderController.submit - Items is ordered success by user test
+2024-06-22T09:03:46.305+0700 INFO UserController.findById called with id 1
+2024-06-22T09:03:46.314+0700 INFO UserController.createUser - called with username test
+2024-06-22T09:03:46.315+0700 INFO UserController.createUser - New user test created
+2024-06-22T09:03:46.320+0700 INFO UserController.findByUserName called with username someone
+2024-06-22T09:03:46.325+0700 INFO UserController.createUser - called with username test
+2024-06-22T09:03:46.325+0700 INFO UserController.createUser - Cannot create user test because the password is invalid
+2024-06-22T09:03:46.328+0700 INFO UserController.createUser - called with username test
+2024-06-22T09:03:46.329+0700 INFO UserController.createUser - Cannot create user test because the password is invalid
+2024-06-22T09:03:46.332+0700 INFO UserController.findById called with id 0
+2024-06-22T09:03:46.337+0700 INFO UserController.findByUserName called with username vuongdt3
+2024-06-22T09:03:46.914+0700 INFO Starting SareetaApplicationTests on DESKTOP-3PNCKNI with PID 13344 (started by ADMIN in D:\Udaicity\course-java-main\course-java-main)
+2024-06-22T09:03:46.920+0700 DEBUG Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-06-22T09:03:46.922+0700 INFO No active profile set, falling back to default profiles: default
+2024-06-22T09:03:53.618+0700 INFO Started SareetaApplicationTests in 7.197 seconds (JVM running for 11.557)
